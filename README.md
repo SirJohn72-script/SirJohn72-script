@@ -10,9 +10,23 @@ Me apasiona el desarrollo de tecnologías que permitan la experiencia VR/AR en l
 
 Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés de diferentes maneras, al igual que la programación, el café tiene diferentes matices y contrastes para todos los gustos. ☕​🧑‍💻
 
-## Tecnologias 🦾👩‍💻🖥
-- Lenguages de programacion 
- - JavaScript
+## Tecnologías 🦾👩‍💻🖥
+*Lenguajes de programación*
+ - JavaScript / Node ❤
+ - Java
+ - C#
+ - Python 
+ - GLSL ❤
+
+* Frameworks 
+- React / Redux ❤
+- Vue / Vuex
+- Three.js / React-Three-Fiber ❤
+
+* Diseño
+- Blender ❤
+- Figma Desing ❤
+- Substance Painter ❤
 
 ## Dale uno ojo a mis redes sociales 🤝​
 - [LinkedIn](www.linkedin.com/in/juanglezf)
