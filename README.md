@@ -18,12 +18,21 @@ Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés 
  - Python 
  - GLSL ❤
 
-### Frameworks* 
+### FrontEnd 
 - React / Redux ❤
+- Express 
 - Vue / Vuex
 - Three.js / React-Three-Fiber ❤
 
-### Diseño*
+### Backend
+- Express
+- SQL Server
+- MySQL
+- MongoDB
+- Azure
+- REST API
+
+### Diseño
 - Blender ❤
 - Figma Desing ❤
 - Substance Painter ❤
