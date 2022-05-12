@@ -12,7 +12,7 @@ Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés 
 
 ## Tecnologías 🦾👩‍💻🖥
 ### Lenguajes de programación*
- - *JavaScript / Node ❤*
+ - JavaScript / Node ❤
  - Java
  - C#
  - Python 
