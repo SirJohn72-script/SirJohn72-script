@@ -13,3 +13,4 @@ Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés 
 ## Dale uno ojo a mis redes sociales 🤝​
 - [LinkedIn](www.linkedin.com/in/juanglezf)
 - [Youtube](https://www.youtube.com/c/JohnScript72)
+- [Sitio Web](https://www.johnscript-dev.com/)
