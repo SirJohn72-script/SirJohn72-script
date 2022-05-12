@@ -14,32 +14,12 @@ Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés 
 
 Lenguajes | FronEnd | Backend | Desing 
 ----------|---------|---------|--------
-
-### Lenguajes de programación*
- - JavaScript / Node ❤
- - Java
- - C#
- - Python 
- - GLSL ❤
-
-### FrontEnd 
-- React / Redux ❤
-- Express 
-- Vue / Vuex
-- Three.js / React-Three-Fiber ❤
-
-### Backend
-- Express
-- SQL Server
-- MySQL
-- MongoDB
-- Azure
-- REST API
-
-### Diseño
-- Blender ❤
-- Figma Desing ❤
-- Substance Painter ❤
+JavaScript / Node ❤ | React / Redux     | Express     | Blender 
+Java                 | Vue / Vuex        | Azure       | Figma Desing 
+C#                   | Three.js          | REST API    | Substance Painter
+Python               | React-Three-Fiber | SQL Server  |
+GLSL ❤              | WebXR              | MySQL      |
+                     |                   | MongoDB     |
 
 ## Dale uno ojo a mis redes sociales 🤝​
 - [LinkedIn](www.linkedin.com/in/juanglezf)
