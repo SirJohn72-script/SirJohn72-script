@@ -1,6 +1,5 @@
 # Hola, mi nombre es Juan Gonzalez AKA JohnScript
 ![Taza GIF](./taza.gif)
-
 <br />
 Un cafecito? ☕​
 
@@ -12,5 +11,5 @@ Me apasiona el desarrollo de tecnologías que permitan la experiencia VR/AR en l
 Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés de diferentes maneras, al igual que la programación, el café tiene diferentes matices y contrastes para todos los gustos.
 
 ## Dale uno ojo a mis redes sociales 
-[LinkedIn](www.linkedin.com/in/juanglezf)
-[Youtube](https://www.youtube.com/c/JohnScript72)
+- [LinkedIn](www.linkedin.com/in/juanglezf)
+- [Youtube](https://www.youtube.com/c/JohnScript72)
