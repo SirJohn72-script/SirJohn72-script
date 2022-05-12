@@ -11,19 +11,19 @@ Me apasiona el desarrollo de tecnologías que permitan la experiencia VR/AR en l
 Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés de diferentes maneras, al igual que la programación, el café tiene diferentes matices y contrastes para todos los gustos. ☕​🧑‍💻
 
 ## Tecnologías 🦾👩‍💻🖥
-*Lenguajes de programación*
- - JavaScript / Node ❤
+### Lenguajes de programación*
+ - *JavaScript / Node ❤*
  - Java
  - C#
  - Python 
  - GLSL ❤
 
-* Frameworks 
+### Frameworks* 
 - React / Redux ❤
 - Vue / Vuex
 - Three.js / React-Three-Fiber ❤
 
-* Diseño
+### Diseño*
 - Blender ❤
 - Figma Desing ❤
 - Substance Painter ❤
