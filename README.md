@@ -1,9 +1,11 @@
 # Hola, mi nombre es Juan Gonzalez AKA JohnScript
 ![Taza GIF](./taza.gif)
-Un cafecito?
+
+<br />
+Un cafecito? ☕​
 
 ## Acerca de mi 
-Hola, soy Juan Gonzalez, Desarrollador FullStack. Construyo software para la web con tecnologías 3D
+Hola, soy Juan Gonzalez, Desarrollador FullStack. Construyo software para la web con tecnologías 3D ​🦾​
 
 Me apasiona el desarrollo de tecnologías que permitan la experiencia VR/AR en la web y al alcance de todos. He invertido la mayor parte de mi aprendizaje como desarrollador web en el desarrollo de experiencias que permitan al usuario una mayor interacción con sus productos, específicamente con tecnologías 3D.
 
