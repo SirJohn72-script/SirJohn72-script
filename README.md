@@ -17,10 +17,10 @@ Lenguajes | FronEnd | Backend | Desing
 JavaScript / Node ❤ | React / Redux     | Express     | Blender 
 Java                 | Vue / Vuex        | Azure       | Figma Desing 
 C#                   | Three.js          | REST API    | Substance Painter
-Python               | React-Three-Fiber | SQL Server  | *
-GLSL ❤              | WebXR             | MySQL      | *
+Python               | React-Three-Fiber | SQL Server  | 
+GLSL ❤              | WebXR             | MySQL      | 
 ||MongoDB|
-*                    | *                 | MongoDB     | *
+
 
 ## Dale uno ojo a mis redes sociales 🤝​
 - [LinkedIn](www.linkedin.com/in/juanglezf)
