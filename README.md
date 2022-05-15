@@ -23,6 +23,6 @@ GLSL ❤              | WebXR             | MySQL      |
 
 
 ## Dale uno ojo a mis redes sociales 🤝​
-- [LinkedIn](www.linkedin.com/in/juanglezf)
+- [LinkedIn](https://www.linkedin.com/in/juanglezf/)
 - [Youtube](https://www.youtube.com/c/JohnScript72)
 - [Sitio Web](https://www.johnscript-dev.com/)
