@@ -16,6 +16,7 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;Jest,Jest,C21325;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;Jest,Jest,C21325;)
 
 ### Design 
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)
 
 ## Dale uno ojo a mis redes sociales 🤝​
 - [LinkedIn](https://www.linkedin.com/in/juanglezf/)
