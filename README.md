@@ -1,24 +1,22 @@
-# Hola, mi nombre es Juan Gonzalez AKA 'JohnScript' 
+ Hola, mi nombre es Juan Gonzalez AKA 'JohnScript' 
 ![Banner Image](./portfolio_banner.png)
 <br />
 Un cafecito? ☕​
 
 ## Acerca de mi 🧑‍💻
-Hola, soy Juan Gonzalez, Desarrollador FullStack. Construyo software para la web con tecnologías 3D ​🦾​
-
-Me apasiona el desarrollo de tecnologías que permitan la experiencia VR/AR en la web y al alcance de todos. He invertido la mayor parte de mi aprendizaje como desarrollador web en el desarrollo de experiencias que permitan al usuario una mayor interacción con sus productos, específicamente con tecnologías 3D.
-
-Uno de mis hobbies favoritos es ser Barista, me encanta tomar y preparar cafés de diferentes maneras, al igual que la programación, el café tiene diferentes matices y contrastes para todos los gustos. ☕​🧑‍💻
+Hola, soy un desarrollador Full-Stack basado en México. Me encanta trabajar con tecnologías web y mézclelos con 3D para hacer páginas con un diferente sabor y sensación.
+Además, he trabajado con Back-End tecnologías, como .NET, ASP.NET y SQL Server, y con servicios en la Nube como Azure y Azure DevOps. 
+Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos y obtener nuevas oportunidades
 
 ## Tecnologías 🦾👩‍💻🖥
 
 Lenguajes | FronEnd | Backend | Desing 
 ----------|---------|---------|--------
-JavaScript / Node ❤ | React / Redux     | Express     | Blender 
-Java                 | Vue / Vuex        | Azure       | Figma Desing 
-C#                   | Three.js          | REST API    | Substance Painter
-Python               | React-Three-Fiber | SQL Server  | 
-GLSL ❤              | WebXR             | MySQL      | 
+JS/TS                | React     | Express     | Blender 
+.NET                 | Next.js        | Azure       | Figma Desing 
+Python                   | Three.js          | REST API    | Substance Painter
+GLSL               | React-Three-Fiber | SQL Server  | 
+              | WebXR             | MySQL      | 
 |||MongoDB|
 
 
