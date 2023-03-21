@@ -8,16 +8,8 @@ Hola, soy un desarrollador Full-Stack basado en México. Me encanta trabajar con
 Además, he trabajado con Back-End tecnologías, como .NET, ASP.NET y SQL Server, y con servicios en la Nube como Azure y Azure DevOps. 
 Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos y obtener nuevas oportunidades
 
-## Tecnologías 🦾👩‍💻🖥
-
-Lenguajes | FronEnd | Backend | Desing 
-----------|---------|---------|--------
-JS/TS                | React     | Express     | Blender 
-.NET                 | Next.js        | Azure       | Figma Desing 
-Python                   | Three.js          | REST API    | Substance Painter
-GLSL               | React-Three-Fiber | SQL Server  | 
-              | WebXR             | MySQL      | 
-|||MongoDB|
+## Tecnologias
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=FrontEnd&lineCount=1&hideBg=true&line1=JavaScript,JavaScript,F7DF1E;TypeScript,TypeScript,3178C6;React,React,61DAFB;Next.js,Next.js,0082C9;Three.js,Three.js,FEC111;WebGL,WebGL,990000;)](https://github-readme-tech-stack.vercel.app/api/cards?title=FrontEnd&lineCount=1&hideBg=true&line1=JavaScript,JavaScript,F7DF1E;TypeScript,TypeScript,3178C6;React,React,61DAFB;Next.js,Next.js,0082C9;Three.js,Three.js,FEC111;WebGL,WebGL,990000;)
 
 
 ## Dale uno ojo a mis redes sociales 🤝​
