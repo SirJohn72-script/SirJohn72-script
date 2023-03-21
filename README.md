@@ -1,7 +1,6 @@
- Hola, mi nombre es Juan Gonzalez AKA 'JohnScript' 
+
 ![Banner Image](./portfolio_banner.png)
 <br />
-Un cafecito? ☕​
 
 ## Acerca de mi 🧑‍💻
 Hola, soy un desarrollador Full-Stack basado en México. Me encanta trabajar con tecnologías web y mézclelos con 3D para hacer páginas con un diferente sabor y sensación.
