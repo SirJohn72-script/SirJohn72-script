@@ -10,7 +10,14 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 
 ## Tecnologias
 ### Front-End
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;TypeScript,TypeScript,3178C6;React,React,61DAFB;Next.js,Next.js,0067C5;&line2=WebGL,WebGL,990000;Three.js,Three.js,FEC111;TailwindCSS,TailwindCSS,06B6D4;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;TypeScript,TypeScript,3178C6;React,React,61DAFB;Next.js,Next.js,0067C5;&line2=WebGL,WebGL,990000;Three.js,Three.js,FEC111;TailwindCSS,TailwindCSS,06B6D4;)
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"></img>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"></img>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="til"></img>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></img>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next"></img>
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="three"></img>
+<img src="https://img.shields.io/badge/WebGL-black?style=for-the-badge&logo=webgl&logoColor=white" alt="webgl"></img>
+
 
 ### Back-End
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;Jest,Jest,C21325;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;Jest,Jest,C21325;)
