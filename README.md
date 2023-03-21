@@ -20,3 +20,4 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 
 ## Dale uno ojo a mis redes sociales 🤝​
 <a href="https://www.linkedin.com/in/juanglezf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn"/></a>
+<a href="https://github.com/SirJohn72-script"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github_profile"></img></a>
