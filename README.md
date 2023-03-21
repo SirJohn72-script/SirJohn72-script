@@ -20,3 +20,4 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 
 ## Dale uno ojo a mis redes sociales 🤝​
 - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- <a href="enlace_de_tu_perfil_de_Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn"/></a>
