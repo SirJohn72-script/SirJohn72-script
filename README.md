@@ -19,4 +19,4 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)
 
 ## Dale uno ojo a mis redes sociales 🤝​
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
