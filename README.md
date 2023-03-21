@@ -1,5 +1,5 @@
 
-![Banner Image](./portfolio_banner.png)
+![Banner Image](./portfolio_banner2.png)
 <br />
 
 ## Acerca de mi 🧑‍💻
