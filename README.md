@@ -18,9 +18,15 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="three"></img>
 <img src="https://img.shields.io/badge/WebGL-ffffff?style=for-the-badge&logo=webgl&logoColor=990000" alt="webgl"></img>
 
-
 ### Back-End
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;Jest,Jest,C21325;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;Jest,Jest,C21325;)
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="net"> </img>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"> </img>
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"></img>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"> </img>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"></img>
+
+
+
 
 ### Design 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)
