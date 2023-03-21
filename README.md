@@ -16,7 +16,7 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></img>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next"></img>
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="three"></img>
-<img src="https://img.shields.io/badge/WebGL-black?style=for-the-badge&logo=webgl&logoColor=white" alt="webgl"></img>
+<img src="https://img.shields.io/badge/WebGL-black?style=for-the-badge&logo=webgl&logoColor=990000" alt="webgl"></img>
 
 
 ### Back-End
