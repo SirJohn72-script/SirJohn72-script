@@ -13,7 +13,7 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;TypeScript,TypeScript,3178C6;React,React,61DAFB;Next.js,Next.js,0067C5;&line2=WebGL,WebGL,990000;Three.js,Three.js,FEC111;TailwindCSS,TailwindCSS,06B6D4;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=monokai&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;TypeScript,TypeScript,3178C6;React,React,61DAFB;Next.js,Next.js,0067C5;&line2=WebGL,WebGL,990000;Three.js,Three.js,FEC111;TailwindCSS,TailwindCSS,06B6D4;)
 
 ### Back-End
-https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;Cypress,Cypress,17202C;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;Cypress,Cypress,17202C;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&hideBg=true&hideTitle=true&line1=.NET,.NET,512BD4;MicrosoftSQLServer,MicrosoftSQLServer,CC2927;Express,Express,009CAB;Cypress,Cypress,17202C;&line2=MicrosoftAzure,Microsoft%20Azure,0078D7;AzurePipelines,Azure%20Pipelines,2560E0;)
 
 ### Design 
 
