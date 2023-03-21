@@ -25,11 +25,10 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"> </img>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"></img>
 
-
-
-
 ### Design 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=monokai&hideBg=true&hideTitle=true&line1=Blender,Blender,F5792A;Figma,Figma,F24E1E;)
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"> </img>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"></img>
+
 
 ## Dale uno ojo a mis redes sociales 🤝​
 <a href="https://www.linkedin.com/in/juanglezf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn"/></a>
