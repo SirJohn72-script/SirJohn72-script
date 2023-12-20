@@ -3,9 +3,23 @@
 <br />
 
 ## Acerca de mi 🧑‍💻
-Hola, soy un desarrollador Full-Stack basado en México. Me encanta trabajar con tecnologías web y mézclelos con 3D para hacer páginas con un diferente sabor y sensación.
-Además, he trabajado con Back-End tecnologías, como .NET, ASP.NET y SQL Server, y con servicios en la Nube como Azure y Azure DevOps. 
-Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos y obtener nuevas oportunidades
+¡Hola! Soy un apasionado desarrollador Full-Stack especializado en ASP.NET 6.0, Entity Framework y LINQ. Mi enfoque se extiende al desarrollo Front-End utilizando Next.js, asegurando experiencias de usuario modernas y receptivas. He demostrado habilidades sólidas en la integración de servicios de Azure e implementación de estrategias eficientes de CI/CD a través de Azure DevOps.
+
+Aunque mi enfoque principal es la tecnología, también disfruto explorando tecnologías 3D como Three.js, WebXR y WebGL en mi tiempo libre. ¡La creatividad digital sigue siendo una pasión para mí!
+
+No tengo miedo de pensar fuera de la caja. ¡Conéctemos y creemos algo asombroso!
+
+✍Visit my website: https://john-portfolio-eight.vercel.app/ (In Update)
+🖥 Checkout my Github Profile: https://github.com/SirJohn72-script
+🧡 Checkout my Youtube Channel: https://www.youtube.com/c/JohnScript72
+
+## About Me 
+Hey there! I'm a passionate Full-Stack developer specializing in ASP.NET 6.0, Entity Framework, and LINQ. My focus extends to Front-End development using Next.js, ensuring modern and responsive user experiences. I've showcased robust skills in integrating Azure services and implementing efficient CI/CD strategies through Azure DevOps.
+
+While my primary focus is technology, I also enjoy exploring 3D technologies like Three.js, WebXR, and WebGL in my free time. Digital creativity remains a passion of mine!
+
+I'm not afraid to think outside the box.
+Let's link up and create something amazing!
 
 ## Tecnologias
 ### Front-End
@@ -20,9 +34,12 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 ### Back-End
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="net"> </img>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"> </img>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"></img>
+
+### Azure DevOps 
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"></img>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"> </img>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"></img>
+
 
 ### Design 
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"> </img>
