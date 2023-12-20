@@ -59,6 +59,10 @@ Let's link up and create something amazing!
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"></img>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></img> 
 
+## Jugamos Battlefield
+<img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"></img>
+- Username: Urogallo72
+
 ## Dale uno ojo a mis redes sociales 🤝​
 <a href="https://www.linkedin.com/in/juanglezf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn"/></a>
 <a href="https://github.com/SirJohn72-script"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github_profile"></img></a>
