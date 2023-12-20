@@ -9,9 +9,9 @@ Aunque mi enfoque principal es la tecnología, también disfruto explorando tecn
 
 No tengo miedo de pensar fuera de la caja. ¡Conéctemos y creemos algo asombroso!
 
-✍Visit my website: https://john-portfolio-eight.vercel.app/ (In Update)
-🖥 Checkout my Github Profile: https://github.com/SirJohn72-script
-🧡 Checkout my Youtube Channel: https://www.youtube.com/c/JohnScript72
+- ✍Visit my website: https://john-portfolio-eight.vercel.app/ (In Update)
+- 🖥 Checkout my Github Profile: https://github.com/SirJohn72-script
+- 🧡 Checkout my Youtube Channel: https://www.youtube.com/c/JohnScript72
 
 ## About Me 
 Hey there! I'm a passionate Full-Stack developer specializing in ASP.NET 6.0, Entity Framework, and LINQ. My focus extends to Front-End development using Next.js, ensuring modern and responsive user experiences. I've showcased robust skills in integrating Azure services and implementing efficient CI/CD strategies through Azure DevOps.
@@ -20,6 +20,10 @@ While my primary focus is technology, I also enjoy exploring 3D technologies lik
 
 I'm not afraid to think outside the box.
 Let's link up and create something amazing!
+
+- ✍Visit my website: https://john-portfolio-eight.vercel.app/ (In Update)
+- 🖥 Checkout my Github Profile: https://github.com/SirJohn72-script
+- 🧡 Checkout my Youtube Channel: https://www.youtube.com/c/JohnScript72
 
 ## Tecnologias
 ### Front-End
