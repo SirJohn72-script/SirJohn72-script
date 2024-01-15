@@ -35,7 +35,7 @@ Let's connect and craft something extraordinary!
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"></img>
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger"></img>
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"></img>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=iis&logoColor=white"></img>
+<img src="https://img.shields.io/badge/iis%23-%23239120.svg?style=for-the-badge&logo=iis&logoColor=white"></img>
 
 ### Scripting & Automatization 
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"></img>
